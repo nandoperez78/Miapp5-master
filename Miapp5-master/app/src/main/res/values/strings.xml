@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Miapp5</string>
+    <string name="password">Password</string>
+    <string name="editapplication">EditApplication</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
